@@ -1,0 +1,13 @@
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\QuizEtica\QuizEtica\bin\Debug\QuizEtica.exe.config
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\QuizEtica\QuizEtica\bin\Debug\QuizEtica.exe
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\QuizEtica\QuizEtica\bin\Debug\QuizEtica.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\QuizEtica\QuizEtica\obj\Debug\QuizEtica.csprojResolveAssemblyReference.cache
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\QuizEtica\QuizEtica\obj\Debug\QuizEtica.FrmHome.resources
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\QuizEtica\QuizEtica\obj\Debug\QuizEtica.Properties.Resources.resources
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\QuizEtica\QuizEtica\obj\Debug\QuizEtica.csproj.GenerateResource.Cache
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\QuizEtica\QuizEtica\obj\Debug\QuizEtica.exe
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\QuizEtica\QuizEtica\obj\Debug\QuizEtica.pdb
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\QuizEtica\QuizEtica\obj\Debug\QuizEtica.FrmAutenticação.resources
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\QuizEtica\QuizEtica\obj\Debug\QuizEtica.FrmCadastro.resources
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\QuizEtica\QuizEtica\obj\Debug\QuizEtica.FrmPerguntas.resources
+C:\Users\Orion\Documents\Visual Studio 2013\Projects\QuizEtica\QuizEtica\obj\Debug\QuizEtica.FrmResultado.resources
